@@ -2,7 +2,7 @@
 
 ## Overview
 
-**sysadmin-helper** is a modular CLI tool written in Bash for Linux system maintenance. It provides functions for:
+**sysadmin-helper** is a CLI tool written in Bash for Linux system maintenance. It provides functions for:
 - **Monitoring:** Checking CPU, memory, and disk usage.
 - **Logs:** Rotating and analyzing log files.
 - **Backup:** Creating and restoring backups of important directories.
@@ -13,7 +13,7 @@
 1. **Clone the repository:**
 
    ```bash
-   git clone <your-repo-url> sysadmin-helper
+   git clone https://github.com/alexmllo/sysadmin-helper.git
    cd sysadmin-helper
    ```
 
